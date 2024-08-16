@@ -1,0 +1,31 @@
+.buttons {
+  width: 54px;
+  height: 134px;
+}
+
+.buttons__column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.buttons__item {
+  width: 100%;
+}
+
+.buttons__item img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 26px;
+}
+
+@media screen and (max-width: 500px) {
+  .buttons {
+    width: 27px;
+    height: 67px;
+  }
+  .buttons__item img {
+    margin-bottom: 15px;
+  }
+}
