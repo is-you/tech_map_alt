@@ -749,7 +749,7 @@ const links = [
             "left": "1074.7px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/282047.phtml",
+        "href": "https://adindex.ru/list/catalogue2/64312/75765.phtml",
         "name": "Созвучие"
     },
     {
@@ -1464,7 +1464,7 @@ const links = [
             "left": "1052.48px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/286257.phtml",
+        "href": "https://adindex.ru/list/catalogue2/64312/75765.phtml",
         "name": "Артикс"
     },
     {
@@ -1770,7 +1770,7 @@ const links = [
             "left": "889.208px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/catalogue/companies/311510.phtml",
         "name": "Mediaminded"
     },
     {
@@ -1780,7 +1780,7 @@ const links = [
             "left": "1544.86px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/catalogue/companies/282047.phtml",
         "name": "PPA"
     },
     {
@@ -1790,7 +1790,7 @@ const links = [
             "left": "546.947px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/list/catalogue2/64312/d90713.phtml",
         "name": "Emp"
     },
     {
@@ -1800,7 +1800,7 @@ const links = [
             "left": "506.111px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "http://adindex.ru/catalogue/digital/86980/90713.phtml",
         "name": "E-Promo"
     },
     {
@@ -1811,7 +1811,7 @@ const links = [
             "width": '41px',
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/list/catalogue2/64312/d90715.phtml",
         "name": "Morizo \n Digital"
     },
     {
@@ -1821,7 +1821,7 @@ const links = [
             "left": "655.216px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/list/catalogue2/64312/d90713.phtml",
         "name": "Narrators"
     },
     {
@@ -1831,7 +1831,7 @@ const links = [
             "left": "821.651px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/list/catalogue2/64312/75900.phtml",
         "name": "Biplane"
     },
     {
@@ -1841,7 +1841,7 @@ const links = [
             "left": "855.195px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/list/catalogue2/64312/77188.phtml",
         "name": "Lavry"
     },
     {
@@ -1851,7 +1851,7 @@ const links = [
             "left": "883.888px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/list/catalogue2/64312/77188.phtml",
         "name": "MGrowth"
     },
     {
@@ -1862,7 +1862,7 @@ const links = [
             'width': '70px',
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/74595.phtml",
+        "href": "https://adindex.ru/catalogue/companies/309023.phtml",
         "name": "Resonance \n Family"
     },
     {
@@ -1872,7 +1872,7 @@ const links = [
             "left": "1025.79px"
         },
         "target": "_blank",
-        "href": "",
+        "href": "https://adindex.ru/list/catalogue2/64312/75765.phtml",
         "name": "Смена"
     }
 ];

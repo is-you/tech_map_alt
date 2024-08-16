@@ -21,11 +21,11 @@ const partnersData = [
   },
   {
     image: mgc,
-    link: "https://adindex.ru/catalogue/companies/311732.phtml?erid=2Vtzqwda9dy",
+    link: "mgcom.ru",
     target: "_blank",
-    code: "2Vtzqwda9dy",
-    name: "ООО РА Индекс 20",
-    inn: "7725847502",
+    code: "2VtzqwZksPz",
+    name: "ООО «ЭмДжиКом» ",
+    inn: "7725560073",
   },
   {
     image: programmatica,
