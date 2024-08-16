@@ -21,7 +21,7 @@ const partnersData = [
   },
   {
     image: mgc,
-    link: "mgcom.ru",
+    link: "https://mgcom.ru",
     target: "_blank",
     code: "2VtzqwZksPz",
     name: "ООО «ЭмДжиКом» ",

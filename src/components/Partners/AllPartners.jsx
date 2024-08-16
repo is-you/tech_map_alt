@@ -38,7 +38,7 @@ export default function AllPartners() {
               inn={inn}
               styles={{
                 position: "absolute",
-                left: `${515 + (index - 3) * 232}px`,
+                left: `${515 + (index - 4) * 232}px`,
                 bottom: "57px",
               }}
             />

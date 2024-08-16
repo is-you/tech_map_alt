@@ -1188,7 +1188,7 @@ const links = [
             "left": "2551.48px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/73955.phtml",
+        "href": "https://adindex.ru/catalogue/companies/276507.phtml",
         "name": "Росст"
     },
     {
@@ -1198,7 +1198,7 @@ const links = [
             "left": "2608.59px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/276507.phtml",
+        "href": "https://adindex.ru/catalogue/companies/73955.phtml",
         "name": "Восход"
     },
     {
@@ -1414,7 +1414,7 @@ const links = [
             "left": "129.845px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/75765.phtml",
+        "href": "https://adindex.ru/catalogue/companies/117670.phtml",
         "name": "ПроКонтекст"
     },
     {
@@ -1444,7 +1444,7 @@ const links = [
             "left": "221.86px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/117670.phtml",
+        "href": "https://adindex.ru/catalogue/companies/311732.phtml",
         "name": "СберСеллер"
     },
     {
@@ -1454,7 +1454,7 @@ const links = [
             "left": "320.301px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/311732.phtml",
+        "href": "https://adindex.ru/catalogue/companies/286257.phtml",
         "name": "Хайпфэктори"
     },
     {
@@ -1706,7 +1706,7 @@ const links = [
             "textAlign": "left"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/79896.phtml",
+        "href": "https://adindex.ru/catalogue/companies/287251.phtml",
         "name": "Тор-Медиа"
     },
     {
@@ -1730,7 +1730,7 @@ const links = [
             "textAlign": "left"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/77145.phtml",
+        "href": "https://adindex.ru/catalogue/companies/118797.phtml",
         "name": "Мост"
     },
     {
@@ -1740,14 +1740,16 @@ const links = [
             "left": "2058.51px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/118797.phtml",
+        "href": "https://adindex.ru/catalogue/companies/77145.phtml",
         "name": "Медиа \n Анлимитед"
     },
     {
         "styles": {
             "position": "absolute",
             "top": "1526.14px",
-            "left": "1856.34px"
+            "left": "1856.34px",
+            "width" : "50px",
+            "textAlign": "left"
         },
         "target": "_blank",
         "href": "https://adindex.ru/catalogue/companies/307422.phtml",
@@ -1760,7 +1762,7 @@ const links = [
             "left": "1780.77px"
         },
         "target": "_blank",
-        "href": "https://adindex.ru/catalogue/companies/287251.phtml",
+        "href": "https://adindex.ru/catalogue/companies/307422.phtml",
         "name": "СберМаркетинг"
     },
     {
